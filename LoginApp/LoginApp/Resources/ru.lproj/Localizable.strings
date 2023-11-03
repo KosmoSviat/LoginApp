@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LoginApp
+
+ //  Created by Sviatoslav Samoilov on 18.07.2023.
+
+*/
+
+"Wrong email or password" = "Неверный email или пароль";
+"Enter email and password" = "Введите email и пароль";
+"Login" = "Вход";
+"Register" = "Регистрация";
